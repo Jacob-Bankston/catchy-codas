@@ -65,6 +65,7 @@ node_modules/
 .env
 
 functions/node_modules/
-functions/credentials
+functions/credentials/
+functions/credentials.js
 functions/dbschema.js
 functions/notes.js

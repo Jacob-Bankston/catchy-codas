@@ -1,0 +1,4 @@
+node_modules/
+credentials.js
+dbschema.js
+notes.js
